@@ -1,3 +1,3 @@
-print("Hello")
+print("hello")
 
-print("GGG")
+print("hi hello")
